@@ -1,8 +1,8 @@
-![NeoForged Logo](./assets/neoforged_logo.png)
+
 
 NeoForge
 =============
-[![Discord](https://img.shields.io/discord/313125603924639766.svg?color=%237289da&label=Discord&logo=discord&logoColor=%237289da)][Discord] 
+
 
 
 NeoForge is a free, open-source, community-oriented modding API for Minecraft.
